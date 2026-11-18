@@ -6,9 +6,10 @@
 
 ### 🛡️ Featured Open-Source & Reliability Tools
 
+- **[`grinem/hooktriage`](https://github.com/grinem/hooktriage)** *(MIT)* — Zero-Trust CLI & MCP Server (`npx -y github:grinem/hooktriage scan` / `--mcp`, 0 bytes uploaded).
 - **[`grinem/n8n-ai-watchdog`](https://github.com/grinem/n8n-ai-watchdog)** *(MIT)* — Zero-Trust 3-node n8n Error Workflow with local secret scrubbing (API keys, JWTs, Bearer tokens, PII) and root-cause alert classification for `429`, `401/403`, webhook drops, and empty AI outputs.
 - **[`grinem/n8n-production-incident-fixes`](https://github.com/grinem/n8n-production-incident-fixes)** — Live engineering archive of 100+ diagnosed production failures & verified recovery patterns.
-- **🌐 Live Knowledge Base & Client-Side Audit**: [https://n8n-production-incident-fixes.pages.dev](https://n8n-production-incident-fixes.pages.dev) *(in-browser workflow static audit + case study archive)*
+- **🌐 Live Knowledge Base & Client-Side Audit**: [https://hooktriage.com](https://hooktriage.com) *(in-browser workflow static audit + case study archive)*
 
 ---
 
